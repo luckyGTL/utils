@@ -1,0 +1,19 @@
+{
+  "name": "utils-method",
+  "version": "1.0.0",
+  "description": "公共方法插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyGTL/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyGTL/utils/issues"
+  },
+  "homepage": "https://github.com/luckyGTL/utils#readme"
+}
